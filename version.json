@@ -1,7 +1,0 @@
-{
-    "version": "2.0.5",
-    "fecha": "2026-09-15",
-    "archivo_exe": "heimdall.exe",
-    "url_descarga": "https://github.com/Hungrow/Heimdall/releases/download/2.0.5/heimdall.exe",
-    "novedades": "1. Fijado y oculto el repositorio de actualizaciones en el código fuente para evitar que el usuario final lo modifique por accidente.\n2. Heimdall ahora está 100% hardcodeado para leer las versiones directamente de GitHub."
-}
