@@ -1,0 +1,7 @@
+{
+    "version": "2.1.2",
+    "fecha": "2026-09-15",
+    "archivo_exe": "heimdall.exe",
+    "url_descarga": "https://github.com/Hungrow/Heimdall/releases/download/2.1.2/heimdall.exe",
+    "novedades": "1. Añadido 'Logs WAF SSO_MINOR_PRO DD/MM/AAAA' a la lista desplegable de nombres de informes WAF."
+}
