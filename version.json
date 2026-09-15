@@ -2,6 +2,6 @@
     "version": "2.0.4",
     "fecha": "2026-09-15",
     "archivo_exe": "heimdall.exe",
-    "url_descarga": "https://github.com/Hungrow/Heimdall/releases/download/v2.0.4/heimdall.exe",
+    "url_descarga": "https://github.com/Hungrow/Heimdall/releases/download/2.0.4/heimdall.exe",
     "novedades": "1. Solucionado el error 'Unexpected UTF-8 BOM'.\n2. Heimdall ahora puede actualizarse desde GitHub directamente de forma nativa."
 }
