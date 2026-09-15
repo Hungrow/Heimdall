@@ -1,0 +1,6 @@
+﻿{
+    "novedades":  "1. Corregido el problema visual de \u0027hoja en blanco\u0027 en la barra de tareas de Windows. Se ha establecido un AppUserModelID específico para que el sistema reconozca correctamente el icono del ejecutable.",
+    "archivo_exe":  "heimdall.exe",
+    "version":  "2.0.3",
+    "fecha":  "2026-09-15"
+}
