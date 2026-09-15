@@ -1,7 +1,0 @@
-{
-    "version": "2.0.7",
-    "fecha": "2026-09-15",
-    "archivo_exe": "heimdall.exe",
-    "url_descarga": "https://github.com/Hungrow/Heimdall/releases/download/2.0.7/heimdall.exe",
-    "novedades": "1. Restaurado el botón de Limpiar Logs SSL (había quedado oculto debajo de la tarjeta de información).\n2. Solucionado definitivamente el problema de PyInstaller Race Condition (Missing DLL / blue.json) aislando los entornos temporales en el script de actualización."
-}
