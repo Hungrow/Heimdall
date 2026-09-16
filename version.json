@@ -1,0 +1,7 @@
+{
+    "version": "2.1.8",
+    "fecha": "2026-09-16",
+    "archivo_exe": "heimdall.exe",
+    "url_descarga": "https://github.com/Hungrow/Heimdall/releases/download/2.1.8/heimdall.exe",
+    "novedades": "1. Corregido un fallo crítico en el motor de actualizaciones automáticas (Updater) que provocaba que el script de sustitución fallara al ejecutarse desde rutas o carpetas que contuvieran tildes, ñ u otros caracteres especiales."
+}
