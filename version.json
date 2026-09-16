@@ -1,7 +1,0 @@
-{
-    "version": "2.1.7",
-    "fecha": "2026-09-16",
-    "archivo_exe": "heimdall.exe",
-    "url_descarga": "https://github.com/Hungrow/Heimdall/releases/download/2.1.7/heimdall.exe",
-    "novedades": "1. Pestaña Backups: Se ha eliminado el formato condicional heredado de la plantilla base en las hojas de 'Tarea Principal JC / TA' para evitar falsos positivos de coincidencias duplicadas marcadas en rojo en la columna D."
-}
