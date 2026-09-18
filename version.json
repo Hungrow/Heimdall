@@ -1,7 +1,0 @@
-{
-    "version": "2.1.9",
-    "fecha": "2026-09-16",
-    "archivo_exe": "heimdall.exe",
-    "url_descarga": "https://github.com/Hungrow/Heimdall/releases/download/2.1.9/heimdall.exe",
-    "novedades": "1. Mejorada la estabilidad de las actualizaciones: Heimdall ya no se reiniciará automáticamente tras instalar una actualización, permitiendo a los sistemas antivirus (Windows Defender) realizar su escaneo de seguridad sin causar un fallo de 'Failed to load Python DLL' al interrumpir el desempaquetado."
-}
