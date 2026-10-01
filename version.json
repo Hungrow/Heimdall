@@ -1,7 +1,0 @@
-{
-    "version": "2.2.1",
-    "fecha": "2026-09-30",
-    "archivo_exe": "heimdall.exe",
-    "url_descarga": "https://github.com/Hungrow/Heimdall/releases/download/2.2.1/heimdall.exe",
-    "novedades": "1. WAF: Consolidado automático de IPs maliciosas únicas en 'IP_Maliciosas DD_MM_AAAA.txt' y estilo de tabla en azul claro.\n2. Logs SSL: Formato de nombre dinámico 'Logs Inicio Sesion SSL DD_MM_AAAA' obtenido de la celda A2.\n3. Configuración: Selección independiente de carpetas de salida por módulo (WAF, Backups, SSL, SCVIP).\n4. Sincro OIDSync: Soporte para plantilla dinámica externa Plantilla_Sincro.txt, compatibilidad nativa con UTF-16 de PowerShell y captura de contexto ampliada."
-}
