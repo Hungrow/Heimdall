@@ -1,0 +1,7 @@
+{
+    "version": "2.2.3",
+    "fecha": "2026-10-01",
+    "archivo_exe": "heimdall.exe",
+    "url_descarga": "https://github.com/Hungrow/Heimdall/releases/download/2.2.3/heimdall.exe",
+    "novedades": "1. Hotfix Módulo Interfaces SCVIP: Corrección del algoritmo OCR de detección y mapeo de gráficas. Ahora se reemplaza el 100% de las gráficas (88 de 88) de Nagios y Cacti sin omisiones debidas a discrepancias tipográficas.\n2. Normalización de identificadores y soporte de fuzzy matching para asegurar coincidencia exacta entre PDFs y plantilla Word.\n3. Modo Canary (Labs), Monitor de Cuotas AbuseIPDB, Test Bench y Editor de Plantilla."
+}
