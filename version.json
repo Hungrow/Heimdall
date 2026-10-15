@@ -1,7 +1,0 @@
-{
-    "version": "2.2.4",
-    "fecha": "2026-10-14",
-    "archivo_exe": "heimdall.exe",
-    "url_descarga": "https://github.com/Hungrow/Heimdall/releases/download/2.2.4/heimdall.exe",
-    "novedades": "1. Generador de Scripts Checkpoint Gaia CLI (SecureCRT .vbs): Generación automática de scripts de bloqueo a partir de listas de IPs (.txt) con asignación de grupo, comentarios de ticket y pausas de supervisión cada 500 líneas.\n2. Doble Ingesta y Trazabilidad en Backups: Ingesta simultánea de NetBackup y Commvault (ES000054 / Backup job summary) con fórmulas vivas cruzadas entre hojas.\n3. Corrección de Integridad y Fórmulas Excel: Corrección de atributos XML en fórmulas de matriz para evitar avisos de reparación en Excel, recálculo dinámico de la celda TOTAL (=SUM(Éxito..Fracaso)), eliminación de hojas sobrantes (Hoja1..3) y ocultación estándar de 'Tarea principal JC' y 'Tarea principal TA'."
-}
