@@ -1,7 +1,0 @@
-{
-    "version": "2.2.5",
-    "fecha": "2026-10-15",
-    "archivo_exe": "heimdall.exe",
-    "url_descarga": "https://github.com/Hungrow/Heimdall/releases/download/2.2.5/heimdall.exe",
-    "novedades": "1. Módulo Feodotracker: Cotejo diferencial diario de botnets de abuse.ch frente a la base persistente con pie dinámico y auto-sanación de IPs de Excel.\n2. Generador Scripts SecureCRT Particionado: División interactiva en partes con asignación libre de IPs y grupos, cabeceras canónicas y espaciado idéntico a Iron Man (eliminación de fallos de compilación en SecureCRT).\n3. Modo Ayuda Rápida Interactiva (?): Botón iluminado en la cabecera que explica cada opción de forma sencilla y no técnica al pasar el ratón, con vinculación profunda y visibilidad permanente.\n4. Visor de Diagramas Visio (.vsdx) en Modo Piloto: Visualizador de planos de red sin licencia de Microsoft Visio, buscador instantáneo de IPs, centrado automático, zoom/pan en Canvas 2D y puente con Draw.io (0 MB de peso adicional).\n5. Botón Reportar Incidencia: Formulario para enviar avisos de error y capturas de pantalla (desde archivo o portapapeles con Win+Shift+S) directamente a GitHub Issues.\n6. Limpieza Automática de Campos: Vaciado inmediato tras generar informes para reutilización fluida.\n7. Simulador Check Point Gaia CLI R82: Laboratorio interactivo con más de 30 comandos reales y diccionario interactivo en Modo Piloto.\n8. Ajustes Persistentes: Configuración del archivo base y carpeta de salida específica para Feodotracker."
-}
