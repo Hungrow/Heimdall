@@ -1,0 +1,7 @@
+{
+    "version": "2.2.7",
+    "fecha": "2026-10-26",
+    "archivo_exe": "heimdall.exe",
+    "url_descarga": "https://github.com/Hungrow/Heimdall/releases/download/2.2.7/heimdall.exe",
+    "novedades": "1. Soporte Multimonitor Integral: Las ventanas emergentes, modales de exportación, cuadros de aviso y selectores de archivos ahora se abren siempre en el monitor donde se encuentra la aplicación principal, respetando configuraciones de pantalla extendida.\n2. Módulo OIDSync Optimizado: Eliminado el botón manual redundante; el análisis y redacción del diagnóstico se ejecutan de manera automática y fluida al cargar el archivo de log.\n3. Resumen de Backups Estilizado y Legible: Rediseño visual del informe consolidado TXT en tarjetas estructuradas, con métricas limpias, fechas humanizadas y separación clara de estados.\n4. Emparejamiento Cronológico de Lotes (Criterio A): Detección y ordenación precisa de ejecuciones entre NetBackup y Commvault según fecha de recepción matutina.\n5. Barra Superior Adaptativa: Reorganización dinámica del botón de Vigía, Ayuda y búsqueda Spotlight para evitar solapamientos en pantallas de alto DPI."
+}
