@@ -1,8 +1,8 @@
 {
-    "abuseipdb_api_key": "TU_API_KEY_DE_ABUSEIPDB_AQUI",
+    "abuseipdb_api_key": "",
     "gemini_api_key": "",
     "gemini_habilitado": false,
-    "output_dir": "C:\\Informes\\Heimdall",
+    "output_dir": "C:\\Informes",
     "output_dir_waf": "",
     "output_dir_backups": "",
     "output_dir_ssl": "",
@@ -18,7 +18,7 @@
     "check_updates_on_startup": true,
     "checkpoint_user": "",
     "checkpoint_password": "",
-    "checkpoint_group": "GRUPO_WAF_BLOQUEO",
+    "checkpoint_group": "GRUPO_FIREWALL",
     "checkpoint_pause_lines": 500,
     "checkpoint_confirm_start": true
 }
