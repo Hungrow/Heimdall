@@ -1,7 +1,7 @@
 {
-    "version": "2.2.6",
-    "fecha": "2026-10-21",
+    "version": "2.2.6.1",
+    "fecha": "2026-10-26",
     "archivo_exe": "heimdall.exe",
     "url_descarga": "https://github.com/Hungrow/Heimdall/releases/download/2.2.6/heimdall.exe",
-    "novedades": "1. Presentación Animada de Inicio (Splash Screen): Pantalla de carga dinámica con diseño moderno, icono oficial (heimdall.ico), barra de progreso animada, mensajes de subsistemas en tiempo real y adaptación automática según el tema configurado (claro u oscuro).\n2. Detección Inteligente del Día de la Semana: Los Lunes se activa y muestra automáticamente la extracción de backups por lotes de fin de semana en Modo Piloto sin requerir secuencia; los Miércoles se muestra un aviso en consola recordando retirar la VPN al trabajar con WAFs.\n3. Extracción de IPs Rojas en WAF: Nuevo botón y modal interactivo para exportar en .txt un listado desduplicado de las IPs marcadas como reportadas (rojas) de los informes de WAF en memoria.\n4. Clarificación de Fuentes en Lotes de Backups: Nombres descriptivos para CSVs 1 (NetBackup), CSVs 2 (Commvault) y CSV Día Previo en el panel de fin de semana.\n5. Base de Conocimiento Masiva de Comandos: Integración de árboles semánticos de referencia para Gaia Expert, Gaia Clish, Linux y PowerShell.\n6. Optimización del Motor y Actualizador: Mayor robustez en el reemplazo de binarios y comprobación de integridad."
+    "novedades": "1. Mejoras en el procesamiento de los informes de backup"
 }
