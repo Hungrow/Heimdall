@@ -1,0 +1,48 @@
+# Python bytecode y cachés
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyd
+
+# Entornos virtuales
+venv/
+env/
+.venv/
+ENV/
+
+# Entornos de compilación y empaquetado (PyInstaller)
+build/
+dist/
+*.manifest
+*.spec.backup
+*.bak
+*.backup
+
+# Configuración local con credenciales
+config.json
+
+# Archivos temporales del actualizador autónomo
+heimdall_update.tmp
+apply_update.bat
+
+# Entregables y archivos temporales de pruebas
+*.tmp
+*.log
+scratch/
+test_*.docx
+test_*.xlsx
+test_*.txt
+
+# Archivos de paquetes de terceros y OCR pesado
+*.zip
+*.rar
+*.7z
+tesseract_setup.exe
+tesseract_extracted/
+
+# Archivos de sistema operativo y editores
+.DS_Store
+Thumbs.db
+ehthumbs.db
+.vscode/
+.idea/
