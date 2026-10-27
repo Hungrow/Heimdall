@@ -7,6 +7,19 @@ y el proyecto sigue las directrices de [Semantic Versioning](https://semver.org/
 
 ---
 
+## [2.2.8] - 2026-10-27
+
+### Añadido
+- **Pantalla de Inicio Adaptativa con Versión Semántica**: Generación dinámica automática del *splash screen* durante la compilación, vinculando la versión activa del sistema y anonimizando los descriptores de módulos técnicos.
+
+### Optimizado
+- **Liberación de Memoria RAM en Módulo de Reconocimiento Óptico (OCR)**: Destrucción explícita de modelos neuronales y limpieza forzada del *Working Set* de Windows tras el análisis documental, recuperando cientos de megabytes de memoria para el sistema operativo.
+
+### Corregido
+- **Consolidación Integral de Incidencias Diarias**: Corrección en el generador de reportes planos de respaldo para incluir adecuadamente tareas en estado de error y pendientes de finalización del ciclo en curso junto a las subsanaciones.
+
+---
+
 ## [2.2.7] - 2026-10-26
 
 ### Añadido
